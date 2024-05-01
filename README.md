@@ -1,0 +1,1 @@
+# Single_Image_Classification_for_MNIST_Datasets_Using_ANN
